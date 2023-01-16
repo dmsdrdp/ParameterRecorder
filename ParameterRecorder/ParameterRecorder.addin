@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>C:\Program Files\RevitAPITraining\ParameterRecorder.dll</Assembly>
+		<AddInId>BED4BBB9-E6B3-4900-A96F-9D044CFFFB51</AddInId>
+		<FullClassName>ParameterRecorder.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Запись параметра</Text>
+	</AddIn>
+</RevitAddIns>
